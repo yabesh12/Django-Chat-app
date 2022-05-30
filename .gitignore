@@ -1,0 +1,8 @@
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
+.idea/
+venv/
+README.md
+db.sqlite3
+*.pyc
